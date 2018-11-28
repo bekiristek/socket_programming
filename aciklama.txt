@@ -1,0 +1,2 @@
+Sunucu, kendisine bağlanan istemciden gelen stringin tamamını büyük harfe çeviriyor ve tekrar istemciye yolluyor.
+
