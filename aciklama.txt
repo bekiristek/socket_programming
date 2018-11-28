@@ -1,2 +1,4 @@
 Sunucu, kendisine bağlanan istemciden gelen stringin tamamını büyük harfe çeviriyor ve tekrar istemciye yolluyor.
 
+The server converts all the string it receives from the connected client to uppercase and returns it back to the client.
+
